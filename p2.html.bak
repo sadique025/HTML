@@ -1,0 +1,128 @@
+<html>
+<head>
+<link rel="icon" href="car.jpg" type="img.jpg" size="70*70px">
+</head>
+<body alink="yellow" link="green" vlink="red">
+<p>click the following links</p>
+<a href="https://www.youtube.com">click here</a><br>
+<a href="https://www.netmeds.com" target="_blank">view medicine</a><br>
+<a href="https://www.netmeds.com" target="_new">view medicine</a><br>
+<a href="https://www.netmeds.com" target="_self">view medicine</a><br>
+
+<h1><a id=top>html lists</a></h1>
+<p> 
+ANALYSIS AND DESIGN
+ 
+In present all visitors parking work done on the paper. The whole year visitor parking record is stored in the registers. We can’t generate reports as per our requirements because its take more time to calculate the visitors parking report.
+
+Disadvantage of present system:
+•	Not user friendly: The present system not user friendly because data is not stored in structure and proper format.
+•	Manual Control: All report calculation is done manually so there is a chance of error.
+•	Lots of paper work: Visitors maintain in the register so lots of paper require storing details.
+•	Time consuming
+Design Introduction:
+Design is the first step in the development phase for any techniques and principles for the purpose of defining a device, a process or system in sufficient detail to permit its physical realization. Once the software requirements have been analysed and specified the software design involves three technical activities - design, coding, implementation and testing that are required to build and verify the software.
+The design activities are of main importance in this phase, because in this activity, decisions ultimately affecting the success of the software implementation and its ease of maintenance are made. These decisions have the final bearing upon reliability and maintainability of the system. Design is the only way to accurately translate the customer’s requirements into finished software or a system.
+Design is the place where quality is fostered in development. Software design is a process through which requirements are translated into a representation of
+ 
+software. Software design is conducted in two steps. Preliminary design is concerned with the transformation of requirements into data.
+UML Diagram:
+Actor:
+A coherent set of roles that users of use cases play when interacting with the use `cases.
+
+
+
+Use Case:
+A description of sequence of actions, including variants, that a system performs that yields an observable result of value of an actor.
+
+
+
+
+UML stands for Unified Modelling Language. UML is a language for specifying, visualizing and documenting the system. This is the step while developing any product after analysis. The goal from this is to produce a model of the entities involved in the project which later need to be built. The representation of the entities that are to be used in the product being developed need to be designed.
+ 
+
+Use case diagrams model behaviour within a system and helps the developers understand of what the user require. The stick man represents what’s called an actor.
+Use case diagram can be useful for getting an overall view of the system and clarifying who can do and more importantly what they can’t do.
+Use case diagram consists of use cases and actors and shows the interaction between the use case and actors.
+•	The purpose is to show the interactions between the use case and actor.
+•	To represent the system requirements from user’s perspective.
+•	An actor could be the end-user of the system or an external system.
+
+</p>
+
+<p> 
+ANALYSIS AND DESIGN
+ 
+In present all visitors parking work done on the paper. The whole year visitor parking record is stored in the registers. We can’t generate reports as per our requirements because its take more time to calculate the visitors parking report.
+
+Disadvantage of present system:
+•	Not user friendly: The present system not user friendly because data is not stored in structure and proper format.
+•	Manual Control: All report calculation is done manually so there is a chance of error.
+•	Lots of paper work: Visitors maintain in the register so lots of paper require storing details.
+•	Time consuming
+Design Introduction:
+Design is the first step in the development phase for any techniques and principles for the purpose of defining a device, a process or system in sufficient detail to permit its physical realization. Once the software requirements have been analysed and specified the software design involves three technical activities - design, coding, implementation and testing that are required to build and verify the software.
+The design activities are of main importance in this phase, because in this activity, decisions ultimately affecting the success of the software implementation and its ease of maintenance are made. These decisions have the final bearing upon reliability and maintainability of the system. Design is the only way to accurately translate the customer’s requirements into finished software or a system.
+Design is the place where quality is fostered in development. Software design is a process through which requirements are translated into a representation of
+ 
+software. Software design is conducted in two steps. Preliminary design is concerned with the transformation of requirements into data.
+UML Diagram:
+Actor:
+A coherent set of roles that users of use cases play when interacting with the use `cases.
+
+
+
+Use Case:
+A description of sequence of actions, including variants, that a system performs that yields an observable result of value of an actor.
+
+
+
+
+UML stands for Unified Modelling Language. UML is a language for specifying, visualizing and documenting the system. This is the step while developing any product after analysis. The goal from this is to produce a model of the entities involved in the project which later need to be built. The representation of the entities that are to be used in the product being developed need to be designed.
+ 
+
+Use case diagrams model behaviour within a system and helps the developers understand of what the user require. The stick man represents what’s called an actor.
+Use case diagram can be useful for getting an overall view of the system and clarifying who can do and more importantly what they can’t do.
+Use case diagram consists of use cases and actors and shows the interaction between the use case and actors.
+•	The purpose is to show the interactions between the use case and actor.
+•	To represent the system requirements from user’s perspective.
+•	An actor could be the end-user of the system or an external system.
+
+</p>
+<p>
+Use Case:
+A description of sequence of actions, including variants, that a system performs that yields an observable result of value of an actor.
+
+
+
+
+UML stands for Unified Modelling Language. UML is a language for specifying, visualizing and documenting the system. This is the step while developing any product after analysis. The goal from this is to produce a model of the entities involved in the project which later need to be built. The representation of the entities that are to be used in the product being developed need to be designed.
+ 
+
+Use case diagrams model behaviour within a system and helps the developers understand of what the user require. The stick man represents what’s called an actor.
+Use case diagram can be useful for getting an overall view of the system and clarifying who can do and more importantly what they can’t do.
+Use case diagram consists of use cases and actors and shows the interaction between the use case and actors.
+•	The purpose is to show the interactions between the use case and actor.
+•	To represent the system requirements from user’s perspective.
+•	An actor could be the end-user of the system or an external system.
+</p>
+<h3><a href id=#top>swipe up</a></h3>
+
+
+<p>
+welocome to&nbsp;&nbsp;&nbsp&nbsp;bitcode technology<br>
+ copyright &copy;<br>
+ cent &cent;<br>
+ yen &yen;<br>
+ euro &euro;<br>
+ trademark &reg;<br>
+ less than &lt;<br>
+ greater than &gt;<br>
+ amperesed &amp;<br>
+ pound &pound;<br><br>
+ 
+ <p>the <abbr title="cascading style sheet">css</abbr></p>
+ 
+</p>
+</body>
+</html>
